@@ -118,14 +118,6 @@ pansy.png
 planksautumn.png
 planksbaldcypress.png
 planksrainboweucalyptus.png
-plant_strawberry0.png
-plant_strawberry1.png
-plant_strawberry2.png
-plant_strawberry3.png
-plant_strawberry4.png
-plant_strawberry5.png
-plant_strawberry7.png
-poppy.png
 rainboweucalyptuslog1.png
 rainboweucalyptuslog2.png
 rainboweucalyptusside1.png
