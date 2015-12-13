@@ -1,5 +1,3 @@
-bachelorsbutton_blue.png
-bachelorsbutton_lightblue.png
 baldcypresslog1.png
 baldcypresslog2.png
 baldcypressside1.png
@@ -8,7 +6,6 @@ baldcypresstop1.png
 baldcypresstop2.png
 baldcypresstop3.png
 baldcypresstop4.png
-belladonna.png
 bellsofireland.png
 better_leavesacacia.png
 better_leavesbaldcypress.png
