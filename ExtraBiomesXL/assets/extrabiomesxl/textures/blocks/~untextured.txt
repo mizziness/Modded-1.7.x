@@ -1,7 +1,3 @@
-allium.png
-amaryllis_pink.png
-amaryllis_red.png
-amaryllis_white.png
 bachelorsbutton_blue.png
 bachelorsbutton_lightblue.png
 baldcypresslog1.png
