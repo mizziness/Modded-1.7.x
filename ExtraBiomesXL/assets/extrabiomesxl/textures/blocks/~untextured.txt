@@ -1,4 +1,3 @@
-bellsofireland.png
 better_leavesacacia.png
 better_leavesbaldcypress.png
 better_leavesbrownautumn.png
@@ -12,13 +11,6 @@ better_leavesredautumn.png
 better_leavesredwood.png
 better_leavessakura.png
 better_leavesyellowautumn.png
-buttercup.png
-door_acacia_lower.png
-door_acacia_upper.png
-door_autumn_lower.png
-door_autumn_upper.png
-door_japanesemaple_lower.png
-door_japanesemaple_upper.png
 door_redwood_lower.png
 door_redwood_upper.png
 door_sakura_lower.png
@@ -42,7 +34,6 @@ ghostorchid.png
 himalayanbluepoppy.png
 iris_blue.png
 iris_purple.png
-lavender.png
 leavesbrownautumnfancy.png
 leavesbrownautumnfast.png
 leavesorangeautumnfancy.png
@@ -52,8 +43,6 @@ leavesredautumnfast.png
 leavesyellowautumnfancy.png
 leavesyellowautumnfast.png
 lily.png
-logautumnside.png
-logautumntop.png
 logfirside.png
 logfirtop.png
 marshmarigold.png
@@ -67,7 +56,6 @@ oaktop3.png
 oaktop4.png
 orientalpinklily.png
 pansy.png
-planksautumn.png
 redrover.png
 redwoodlog1.png
 redwoodlog2.png
