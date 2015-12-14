@@ -12,12 +12,7 @@ better_leavesredautumn.png
 better_leavesredwood.png
 better_leavessakura.png
 better_leavesyellowautumn.png
-bluebell.png
 buttercup.png
-calla_black.png
-calla_white.png
-daisy.png
-dandelion.png
 door_acacia_lower.png
 door_acacia_upper.png
 door_autumn_lower.png
@@ -84,9 +79,7 @@ redwoodtop3.png
 redwoodtop4.png
 snapdragon.png
 todo.png
-tulips.png
 vine_gloriosa.png
 vine_spanish_moss.png
 vine_spanish_moss_end.png
-violet.png
 yarrow.png
