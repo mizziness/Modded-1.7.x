@@ -2,13 +2,6 @@ cactuspaste.png
 cattail.png
 ch_strawberry.png
 chocolate.png
-door_acacia.png
-door_autumn.png
-door_baldcypress.png
-door_cypress.png
-door_fir.png
-door_japanesemaple.png
-door_rainboweucalyptus.png
 door_redwood.png
 door_sakura.png
 dye_black.png
